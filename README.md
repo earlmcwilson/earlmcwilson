@@ -9,6 +9,6 @@ My main code IDE is VS Code.
 **Fun facts:**
 - I enjoy watching Gundam Gunpla model kits being built in my free time as well as action figure reviews (mainly 1/12 scale figures)
 
-- I also enjoy fun yet challenging game content that require precise reactions, timing and skill.
+- I also enjoy fun yet challenging games that require skill, pattern recognition and precise reactions.
 
 
