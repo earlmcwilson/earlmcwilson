@@ -1,6 +1,7 @@
 **Hi there👋**
 
 I’m Earl
+
 I'm interested in web development and planning to build projects to improve my skills.
 
 I’m currently taking Harvard’s CS50x course, and I’m in Week 8, learning the fundamentals of the internet and websites.
