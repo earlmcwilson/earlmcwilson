@@ -7,7 +7,7 @@ I’m currently taking Harvard’s CS50x course, and I’m in Week 8, learning t
 My main code IDE is VS Code.
 
 **Fun facts:**
-- I enjoy watching Gundam Gunpla model kits being built in my free time as well as action figure reviews (mainly 1/12 scale figures)
+- I enjoy watching Gundam Gunpla model kits being built in my free time as well as watching video essays about various topics
 
 - I also enjoy challenging yet fun games that require skill, pattern recognition and precise reactions.
 
